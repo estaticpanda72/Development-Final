@@ -1,0 +1,11 @@
+#grid-container {
+    display: grid;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(226, 172, 101);
+  }
+#grid-item{
+    background-color: rgb(226, 172, 101);
+    align-items: center;
+}

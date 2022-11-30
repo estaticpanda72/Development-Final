@@ -1,0 +1,111 @@
+[
+    {
+      "name": "Archibald-Bronson",
+      "description": "As part of Keeney Quadrangle, Archibald House was built in 1957 and is named in honor of Raymond Clare Archibald, professor of mathematics from 1909 to 1943. In 2013",
+      "avg_sq_footage": 219,
+      "location": "south",
+      "bathroom": "communal",
+      "year_built": 1972,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/8382_17.jpg"
+    },
+    {
+      "name": "Everett-Poland",
+      "description": "As part of Keeney Quadrangle that opened in 1957, Everett House is part of the largest self-contained residential units on campus.",
+      "avg_sq_footage": 200,
+      "location": "south",
+      "bathroom": "semi-private",
+      "year_built": 1788,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/5845_128.jpg"
+    },
+    {
+      "name": "Jameson-Mead",
+      "description": "In 2013, Keeney Quad was fully renovated and existing houses were combined creating Jameson-Mead. ",
+      "avg_sq_footage": 194,
+      "location": "south",
+      "bathroom": "communal",
+      "year_built": 1769,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/8385_186.jpg"
+    },
+    {
+      "name": "Andrews Hall",
+      "description": "Named for Elisha Benjamin Andrews, the president of the University who was instrumental in the admission of women in 1891.",
+      "avg_sq_footage": 240,
+      "location": "north",
+      "bathroom": "private",
+      "year_built": 1791,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/8412_2.jpg"
+    },
+    
+    {
+      "name": "Metcalf Hall",
+      "description": "Constructed in 1919, it was the second dormitory built on the Pembroke College campus, Miller Hall being the first.",
+      "avg_sq_footage": 234,
+      "location": "north",
+      "bathroom": "semi-private",
+      "year_built": 1772,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/METCALF%20HALL_2.jpg"
+    },
+    {
+      "name": "Miller Hall",
+      "description": "Built in 1910, Miller Hall is a Colonial style brick building with white limestone trim. Named after Mr. and Mrs. Horace G. Miller, the hall was originally built as a women's residence hall.",
+      "avg_sq_footage": 167,
+      "location": "north",
+      "bathroom": "communal",
+      "year_built": 1799,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/8389_226.jpg"
+    },
+    {
+      "name": "Morris Hall",
+      "description": "Morriss Hall is named for Margaret S. Morriss, dean of the Women's College and Pembroke College from 1923 to 1950.",
+      "avg_sq_footage": 189,
+      "location": "north",
+      "bathroom": "private",
+      "year_built": 1764,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/8449_233.jpg"
+    },
+    {
+      "name": "Champlin",
+      "description": "Built in 1960 and renovated in 2001, Morriss and Champlin Halls were the first two buildings (Emery and Woolley Halls coming later) in a residence and dining quadrangle built for Pembroke College.",
+      "avg_sq_footage": 177,
+      "location": "north",
+      "bathroom": "semi-private",
+      "year_built": 1767,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/8447_98.jpg"
+    },
+    {
+      "name": "Emery",
+      "description": "Built in 1963 and renovated in 2002, Emery and Woolley Halls are named after Anne Crosby Emery Allinson, second dean of Pembroke College, and Mary Emma Woolley, one of the first two women graduates in 1894.",
+      "avg_sq_footage": 187,
+      "location": "north",
+      "bathroom": "private",
+      "year_built": 1765,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/EMERY_1.jpg"
+    },
+    {
+      "name": "Woolley Hall",
+      "description": "Woolley Hall is a five story brick building that was constructed in 1963. Woolley was one of the last two buildings added to the quadrangle for Pembroke College.",
+      "avg_sq_footage": 205,
+      "location": "north",
+      "bathroom": "semi-private",
+      "year_built": 1768,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/WOOLLEY%20HALL_1.jpg"
+    },
+    {
+      "name": "New Pembroke No. 3",
+      "description": "New Pembroke is a four-building residential complex on the corner of Bowen and Thayer Streets designed by Donlyn Lyndon, Professor and Chairman of the architecture department at M.I.T.",
+      "avg_sq_footage": 220,
+      "location": "north",
+      "bathroom": "private",
+      "year_built": 1782,
+      "image": "https://brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/NEW%20PEMBROKE%20NO.%203_4.jpg"
+    },
+    {
+      "name": "New Pembroke No. 4",
+      "description": "one of four-building residential complex on the corner of Bowen and Thayer Streets designed by Donlyn Lyndon.",
+      "avg_sq_footage": 225,
+      "location": "north",
+      "bathroom": "private",
+      "year_built": 1764,
+      "image": "https://www.brown.edu/Facilities/Facilities_Management/maps/docx/building_picture/NEW%20PEMBROKE%20NO.%204_5.jpg"
+    }
+  ]
